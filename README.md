@@ -6,7 +6,7 @@ running service.
 
 - **Candidate:** Madhukar Shyam Tripathi
 - **College email:** madhukar.20234096@mnnit.ac.in
-- **Live app:** _[Paste your Vercel URL here]_
+- **Live app:** _[https://ivy-assignment-beryl.vercel.app/]_
 - **Answers and findings:** [`submission.json`](./submission.json)
 - **City:** Mumbai (`city_id` 5) · **Assigned locality:** Powai
 
